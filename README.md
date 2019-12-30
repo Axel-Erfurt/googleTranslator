@@ -2,7 +2,7 @@
 
 This is a revision of a Translator made by Lewis Tian.
 
-[Original](https://github.com/ssut/py-googletrans)
+[Original](https://github.com/taseikyo/PyQt5-Apps/tree/master/google-translate)
 
 I have simplified the GUI.
 It is for translations from German to English or English to German.
